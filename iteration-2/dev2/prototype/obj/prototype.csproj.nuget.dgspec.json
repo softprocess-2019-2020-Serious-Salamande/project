@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FMI\\softprocess\\prototype\\prototype\\prototype.csproj": {}
+    "D:\\FMI\\softprocess\\project\\iteration-2\\dev2\\prototype\\prototype.csproj": {}
   },
   "projects": {
-    "D:\\FMI\\softprocess\\prototype\\prototype\\prototype.csproj": {
+    "D:\\FMI\\softprocess\\project\\iteration-2\\dev2\\prototype\\prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FMI\\softprocess\\prototype\\prototype\\prototype.csproj",
+        "projectUniqueName": "D:\\FMI\\softprocess\\project\\iteration-2\\dev2\\prototype\\prototype.csproj",
         "projectName": "prototype",
-        "projectPath": "D:\\FMI\\softprocess\\prototype\\prototype\\prototype.csproj",
+        "projectPath": "D:\\FMI\\softprocess\\project\\iteration-2\\dev2\\prototype\\prototype.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FMI\\softprocess\\prototype\\prototype\\obj\\",
+        "outputPath": "D:\\FMI\\softprocess\\project\\iteration-2\\dev2\\prototype\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

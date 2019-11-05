@@ -9,3 +9,14 @@ D:\FMI\softprocess\prototype\prototype\obj\Debug\netcoreapp3.0\prototype.Assembl
 D:\FMI\softprocess\prototype\prototype\obj\Debug\netcoreapp3.0\prototype.AssemblyInfo.cs
 D:\FMI\softprocess\prototype\prototype\obj\Debug\netcoreapp3.0\prototype.dll
 D:\FMI\softprocess\prototype\prototype\obj\Debug\netcoreapp3.0\prototype.pdb
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\bin\Debug\netcoreapp3.0\prototype.exe
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\bin\Debug\netcoreapp3.0\prototype.deps.json
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\bin\Debug\netcoreapp3.0\prototype.runtimeconfig.json
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\bin\Debug\netcoreapp3.0\prototype.runtimeconfig.dev.json
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\bin\Debug\netcoreapp3.0\prototype.dll
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\bin\Debug\netcoreapp3.0\prototype.pdb
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\obj\Debug\netcoreapp3.0\prototype.csprojAssemblyReference.cache
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\obj\Debug\netcoreapp3.0\prototype.AssemblyInfoInputs.cache
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\obj\Debug\netcoreapp3.0\prototype.AssemblyInfo.cs
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\obj\Debug\netcoreapp3.0\prototype.dll
+D:\FMI\softprocess\project\iteration-2\dev2\prototype\obj\Debug\netcoreapp3.0\prototype.pdb

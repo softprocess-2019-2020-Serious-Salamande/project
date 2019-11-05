@@ -27,5 +27,13 @@ namespace prototype
         {
             MessageBox.Show("Open Search Form");
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.ShowDialog();
+            this.Hide();
+            this.Close();
+        }
     }
 }
